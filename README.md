@@ -7,5 +7,3 @@
 ## Leave of your comfort zone
 
 ![](https://komarev.com/ghpvc/?username=52199422&color=42f5d1&label=PROFILE+VIEWS)
-![](https://hit.yhype.halp.im/github/profile?user_id=52199422&color=42f5d1&label=PROFILE+VIEWS)
-
