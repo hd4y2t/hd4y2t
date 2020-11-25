@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Muhammad(Hidayat)|https://raymond.li)" title="👋 Hi there! I'm (Muhammad(Hidayat)"/>]
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Muhammad(Hidayat)" title="👋 Hi there! I'm (Muhammad(Hidayat)"/>]
 
 
 I'm beginner on Hardware Engineer & Software Development and I'm Linux user
