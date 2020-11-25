@@ -1,8 +1,9 @@
 ### Hi there, nice to meet you 👋
 # My Name is Muhammad Hidayat😴
+##### i'm just normal people but unique
 <p>I'm beginner on Hardware Engineer & Software Development 😐 and I'm Linux user</p>
 <p> My Hobbies is Martial Art and playing code😼</p>
-##### i'm just normal people but unique
+
 
 
 ![](https://komarev.com/ghpvc/?username=52199422&color=42f5d1&label=PROFILE+VIEWS)
