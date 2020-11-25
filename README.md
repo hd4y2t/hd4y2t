@@ -1,4 +1,4 @@
-#👋 Hi there! I'm Muhammad Hidayat
+# 👋 Hi there! I'm Muhammad Hidayat
 I'm beginner on Hardware Engineer & Software Development and I'm Linux user
 ##### i'm just normal people but unique
 
