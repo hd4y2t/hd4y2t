@@ -9,6 +9,5 @@
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/hd4y2t" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/hd4y2t" target="_blank">
-</p>
-  <p><a href="https://web.facebook.com/profile.php?id=100008265035119" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://web.facebook.com/profile.php?id=100008265035119" target="_blank">
+<a href="https://web.facebook.com/profile.php?id=100008265035119" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://web.facebook.com/profile.php?id=100008265035119" target="_blank">
 </p>
