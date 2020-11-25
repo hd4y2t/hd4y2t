@@ -13,5 +13,5 @@
 [Ÿ HŸPE]: https://yhype.halp.im
 [GitHub Profile Views Counter]: https://github.com/hd4y2t/github-profile-views-counter
 
-![](https://hit.yhype.halp.im/github/profile?user_id=52199422&color=42f5d1)
+![](https://hit.yhype.halp.im/github/profile?user_id=52199422&color=42f5d1&label=PROFILE+VIEWS)
 
