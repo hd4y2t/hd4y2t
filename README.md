@@ -6,7 +6,7 @@ I'm beginner on Hardware Engineer, Software Development and Linux user
 ![](https://komarev.com/ghpvc/?username=52199422&color=42f5d1&label=PROFILE+VIEWS)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hd4y2t&show_icons=true&bg_color=30,0d1117,0d1117&title_color=00729c&text_color=00729c" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hd4y2t&show_icons=true&bg_color=10,0d1117,0d1117&title_color=00729c&text_color=00729c" />
 </a>
 
 <h3>Where to find me</h3>
