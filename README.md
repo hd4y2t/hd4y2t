@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Muhammad Hidayat
-I'm beginner on Hardware Engineer, Software Development and Linux user
+I'm beginner
 ##### i'm just normal people but unique
 
 
