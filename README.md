@@ -8,7 +8,10 @@ I'm beginner
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hd4y2t&show_icons=true&bg_color=10,0d1117,0d1117&title_color=c9d1d9&text_color=c9d1d9" />
 </a>
-![trophy](https://github-profile-trophy.vercel.app/?username=hd4y2t&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
+</p>
+
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/hd4y2t" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/hd4y2t" target="_blank">
