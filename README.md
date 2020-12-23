@@ -19,4 +19,4 @@ I'm beginner
 </p>
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=hd4y2t&theme=onedark)](https://github.com/hd4y2t/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=hd4y2t&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
