@@ -8,9 +8,7 @@ I'm beginner
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hd4y2t&show_icons=true&bg_color=10,0d1117,0d1117&title_color=c9d1d9&text_color=c9d1d9" />
 </a>
-<p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
-</p>
+
 
 
 <h3>Where to find me</h3>
@@ -19,3 +17,6 @@ I'm beginner
 <a href="https://www.instagram.com/hd4y2t/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.instagram.com/hd4y2t/" target="_blank">
 
 </p>
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=hd4y2t&theme=onedark)](https://github.com/hd4y2t/github-profile-trophy)
