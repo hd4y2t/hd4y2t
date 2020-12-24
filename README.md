@@ -14,5 +14,7 @@ I'm beginner
 <a href="https://www.instagram.com/hd4y2t/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.instagram.com/hd4y2t/" target="_blank">
 </p>
  <p align=center>
+   <a>
 ![](https://komarev.com/ghpvc/?username=52199422&color=42f5d1&label=PROFILE+VIEWS)
+   </a>
   </p>
