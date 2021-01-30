@@ -5,7 +5,7 @@ I'm beginner
 ![](https://komarev.com/ghpvc/?username=52199422&color=42f5d1&label=PROFILE+VIEWS)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hd4y2t&show_icons=true&bg_color=0d1117&icon_color=4b8dda&title_color=4b8dda&text_color=8a939d" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hd4y2t&show_icons=true&bg_color=0d1117&icon_color=4b8dda&title_color=1877f2&text_color=8a939d" />
 </a>
 
 <p align=center><a>
