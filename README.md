@@ -11,7 +11,7 @@ i'm just normal people but unique
 
 </p>
 
-
+<br>
 <p align=center><a>
   <h3>Where to find me</h3></a>
 </p>
