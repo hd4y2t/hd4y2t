@@ -4,14 +4,11 @@ I'm beginner
 i'm just normal people but unique
 
 ![](https://komarev.com/ghpvc/?username=52199422&color=1897f8&label=PROFILE+VIEWS)
-<div>
-  
+<p>  
  <img src="https://github-readme-stats.vercel.app/api?username=hd4y2t&show_icons=true&bg_color=0d1117&icon_color=4b8dda&title_color=199afc&text_color=8a939d" />
-  <img src="https://github.com/hd4y2t/hd4y2t/blob/main/assets/img/cat.png" width="120px>
+  <img src="https://github.com/hd4y2t/hd4y2t/blob/main/assets/img/cat.png" width="120px">
+</p>
 
-</div>
-
-<br>
 <p align=center><a>
   <h3>Where to find me</h3></a>
 </p>
