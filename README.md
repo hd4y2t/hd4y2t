@@ -5,7 +5,7 @@ i'm just normal people but unique
 
 <p>  
  <img src="https://github-readme-stats.vercel.app/api?username=hd4y2t&show_icons=true&bg_color=0d1117&icon_color=4b8dda&title_color=199afc&text_color=8a939d">
-<img src="https://github.com/hd4y2t/hd4y2t/blob/main/assets/img/cat.png" width="85" height="110">
+<img src="https://github.com/hd4y2t/hd4y2t/blob/main/assets/img/cat.png" width="90" height="110">
   
 ![](https://komarev.com/ghpvc/?username=52199422&color=1897f8&label=PROFILE+VIEWS)
 </p>
