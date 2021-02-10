@@ -1,12 +1,16 @@
-# 👋 Hi there! I'm Muhammad Hidayat
+<h4> Hi there<img src="https://github.com/hd4y2t/hd4y2t/blob/main/assets/gift/wave.gif" width="30px">! I'm Muhammad Hidayat
+</h4>
 I'm beginner
 ##### i'm just normal people but unique
 
 ![](https://komarev.com/ghpvc/?username=52199422&color=1897f8&label=PROFILE+VIEWS)
+<p align="center">
+  
+ <img src="https://github-readme-stats.vercel.app/api?username=hd4y2t&show_icons=true&bg_color=0d1117&icon_color=4b8dda&title_color=199afc&text_color=8a939d" />
+  <img src="https://github.com/hd4y2t/hd4y2t/blob/main/assets/img/cat.png">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hd4y2t&show_icons=true&bg_color=0d1117&icon_color=4b8dda&title_color=199afc&text_color=8a939d" />
-</a>
+</p>
+
 
 <p align=center><a>
   <h3>Where to find me</h3></a>
