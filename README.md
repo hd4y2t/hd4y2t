@@ -8,8 +8,8 @@ i'm just normal people but unique
 
 <img src="https://github.com/hd4y2t/hd4y2t/blob/main/assets/img/cat.png" width="140px">
   
-</p>
 ![](https://komarev.com/ghpvc/?username=52199422&color=1897f8&label=PROFILE+VIEWS)
+</p>
 
 <p align=center><a>
   <h3>Where to find me</h3></a>
