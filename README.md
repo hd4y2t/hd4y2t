@@ -1,5 +1,5 @@
-<h4> Hi there! I'm Muhammad Hidayat <img src="https://github.com/hd4y2t/hd4y2t/blob/main/assets/gift/wave.gif" width="30px">
-</h4>
+<h3> Hi there! I'm Muhammad Hidayat <img src="https://github.com/hd4y2t/hd4y2t/blob/main/assets/gift/wave.gif" width="30px">
+</h3>
 I'm beginner
 <p>  
   <a href="https://github.com/hd4y2t" >
