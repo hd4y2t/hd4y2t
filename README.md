@@ -19,6 +19,6 @@ I'm beginner
 <a href="https://github.com/hd4y2t" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/hd4y2t" target="_blank">
 <a href="https://www.linkedin.com/in/muhammad-hidayat-41b0a51bb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> <a href="https://www.linkedin.com/in/muhammad-hidayat-41b0a51bb/" target="_blank">
 <a href="https://forum.freecodecamp.org/u/hd4y2t/summary" target="_blank"><img alt="FreeCodeCamp" src="https://img.shields.io/badge/FreeCodeCamp-0a0a23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white" /></a> <a href="https://forum.freecodecamp.org/u/hd4y2t/summary" target="_blank">
-  <a href="https://stackoverflow.com/users/10906528/hd4y2t" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/stackoverflow-ffffff?style=for-the-badge&logo=stackoverflow&logoColor=f48024" /></a> <a href="https://stackoverflow.com/users/10906528/hd4y2t" target="_blank">
+
 </div>
 </p>
