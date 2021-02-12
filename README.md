@@ -18,6 +18,6 @@ I'm beginner
 <div>
 <a href="https://github.com/hd4y2t" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/hd4y2t" target="_blank">
 <a href="https://web.facebook.com/profile.php?id=100008265035119" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> <a href="https://www.linkedin.com/in/muhammad-hidayat-41b0a51bb/" target="_blank">
-<a href="https://www.instagram.com/hd4y2t/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.instagram.com/hd4y2t/" target="_blank">
+<a href="https://www.instagram.com/hd4y2t/" target="_blank"><img alt="FreeCodeCamp" src="https://img.shields.io/badge/FreeCodeCamp-E4405F?style=for-the-badge&logo=FreeCodeCamp&logoColor=white" /></a> <a href="https://www.instagram.com/hd4y2t/" target="_blank">
 </div>
 </p>
