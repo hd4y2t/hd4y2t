@@ -17,8 +17,9 @@ I'm beginner
 <p>
 <div>
 <a href="https://github.com/hd4y2t" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://github.com/hd4y2t" target="_blank">
+  <a href="https://gitlab.com/hd4y2t" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-%2312100E.svg?&style=for-the-badge&logo=Gitlab&logoColor=white" /></a> <a href="https://gitlab.com/hd4y2t" target="_blank">
 <a href="https://www.linkedin.com/in/muhammad-hidayat-41b0a51bb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> <a href="https://www.linkedin.com/in/muhammad-hidayat-41b0a51bb/" target="_blank">
-<a href="https://gitlab.com/hd4y2t" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-%2312100E.svg?&style=for-the-badge&logo=Gitlab&logoColor=white" /></a> <a href="https://gitlab.com/hd4y2t" target="_blank">
+
  <a href="https://dev.to/hd4y2t" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
@@ -27,7 +28,7 @@ I'm beginner
 </a>  
 
 </div>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cy4a1pt8vhmz0j0gjyrj0oigi&cover_image=true&theme=default" /></div>  
+//<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cy4a1pt8vhmz0j0gjyrj0oigi&cover_image=true&theme=default" /></div>  
 
 </p>
 
