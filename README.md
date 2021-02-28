@@ -20,12 +20,10 @@ I'm beginner
   <a href="https://gitlab.com/hd4y2t" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-%2312100E.svg?&style=for-the-badge&logo=Gitlab&logoColor=white" /></a> <a href="https://gitlab.com/hd4y2t" target="_blank">
 <a href="https://www.linkedin.com/in/muhammad-hidayat-41b0a51bb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> <a href="https://www.linkedin.com/in/muhammad-hidayat-41b0a51bb/" target="_blank">
 
- <a href="https://dev.to/hd4y2t" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+ <a href="https://www.facebook.com/profile.php?id=100008265035119" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%2308090A.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
- <a href="https://stackoverflow.com/users/hd4y2t" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
+   
 
 </div>
 <div><img src="https://spotify-github-profile.vercel.app/api/view?uid=cy4a1pt8vhmz0j0gjyrj0oigi&cover_image=true&theme=novatorem" /></div>  
