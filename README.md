@@ -21,7 +21,7 @@ I'm beginner
 <a href="https://www.linkedin.com/in/muhammad-hidayat-41b0a51bb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> <a href="https://www.linkedin.com/in/muhammad-hidayat-41b0a51bb/" target="_blank">
 
  <a href="https://www.facebook.com/profile.php?id=100008265035119" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%2308090A.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
    
 
