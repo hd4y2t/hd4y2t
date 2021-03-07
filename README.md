@@ -26,7 +26,8 @@ I'm beginner
    
 
 </div>
-<div><img src="https://spotify-github-profile.vercel.app/api/view?uid=cy4a1pt8vhmz0j0gjyrj0oigi&cover_image=true&theme=novatorem" /></div>  
+<div>
+<!--   <img src="https://spotify-github-profile.vercel.app/api/view?uid=cy4a1pt8vhmz0j0gjyrj0oigi&cover_image=true&theme=novatorem" /></div>   -->
 
 </p>
 
