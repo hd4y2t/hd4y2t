@@ -18,10 +18,10 @@
 <p>
 <div>
 <a href="https://github.com/hd4y2t" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://github.com/hd4y2t" target="_blank">
-  <a href="https://linkedin.com/in/hd4y2t" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%2312100E.svg?&style=for-the-badge&logo=Linkedin&logoColor=blue" /></a> <a href="https://linkedin.com/in/hd4y2t" target="_blank">
-<!--   <a href="https://gitlab.com/hd4y2t" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-%2312100E.svg?&style=for-the-badge&logo=Gitlab&logoColor=white" /></a> <a href="https://gitlab.com/hd4y2t" target="_blank">
-<a href="https://www.linkedin.com/in/muhammad-hidayat-41b0a51bb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> <a href="https://www.linkedin.com/in/muhammad-hidayat-41b0a51bb/" target="_blank">
- -->
+<!--   <a href="https://linkedin.com/in/hd4y2t" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%2312100E.svg?&style=for-the-badge&logo=Linkedin&logoColor=blue" /></a> <a href="https://linkedin.com/in/hd4y2t" target="_blank"> -->
+<!--   <a href="https://gitlab.com/hd4y2t" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-%2312100E.svg?&style=for-the-badge&logo=Gitlab&logoColor=white" /></a> <a href="https://gitlab.com/hd4y2t" target="_blank"> -->
+<a href="https://www.linkedin.com/in/hd4y2t/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hd4y2t/" target="_blank">
+
 <!--  <a href="https://www.facebook.com/profile.php?id=100008265035119" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a> -->
