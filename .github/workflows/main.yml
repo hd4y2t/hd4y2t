@@ -11,13 +11,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
+      - name: generate github-contribution-grid-snake.svg
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: hd4y2t
+          github_user_name:  ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.5.0
+            - name: push github-contribution-grid-snake.svg to the output branch
+            - uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
           build_dir: dist
