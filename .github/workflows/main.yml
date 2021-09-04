@@ -1,4 +1,4 @@
-name: generate animation
+name: main
 
 on:
   # run automatically every 6 hours
