@@ -26,4 +26,4 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: hd4y2t
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-user-contribution.svg
