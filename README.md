@@ -22,11 +22,11 @@
 <!--   <a href="https://gitlab.com/hd4y2t" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-%2312100E.svg?&style=for-the-badge&logo=Gitlab&logoColor=white" /></a> <a href="https://gitlab.com/hd4y2t" target="_blank"> -->
 
 <a href="https://linkedin.com/in/hd4y2t" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%13ab67.svg alt=CakeResume style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.cakeresume.com/me/muhammad-hidayat-2a2ab7" target="_blank">
-<img src=https://img.shields.io/badge/WeChat-07C160 alt=cakeresume style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/cakeresume-07C160 alt=cakeresume style="margin-bottom: 5px;" />
 </a>
 <!--  <a href="https://www.facebook.com/profile.php?id=100008265035119" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
