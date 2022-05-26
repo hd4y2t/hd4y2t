@@ -23,12 +23,17 @@
 
 <a href="https://linkedin.com/in/hd4y2t" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-2f7cc9?&style=for-the-badge&logo=Linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
-</a>
+  
+<a href="https://linkedin.com/in/hd4y2t" target="_blank">
+  </a>
+
 
 <a href="https://www.cakeresume.com/me/muhammad-hidayat-2a2ab7" target="_blank">
 <img src="https://img.shields.io/badge/cakeresume-07C160?&style=for-the-badge&logo=CakeResume&logoColor=white" alt=CakeResume style="margin-bottom: 5px;" />
-</a>
-<!--  <a href="https://www.facebook.com/profile.php?id=100008265035119" target="_blank">
+<a href="https://www.cakeresume.com/me/muhammad-hidayat-2a2ab7" target="_blank">
+  </a>
+
+  <!--  <a href="https://www.facebook.com/profile.php?id=100008265035119" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a> -->
    <div>
