@@ -1,4 +1,4 @@
-<h3> Hi there!<img src="https://github.com/hd4y2t/hd4y2t/blob/main/assets/gift/wave.gif" width="5px">
+<h3> Hi there!<img src="https://github.com/hd4y2t/hd4y2t/blob/main/assets/gift/wave.gif" width="2px">
 </h3>
 <p>  
   <a href="https://github.com/hd4y2t" >
