@@ -1,5 +1,6 @@
-<h3> Hi there!<img src="https://github.com/hd4y2t/hd4y2t/blob/main/assets/gift/wave.gif" width="2px">
+<h3> Hi there!
 </h3>
+<!-- <img src="https://github.com/hd4y2t/hd4y2t/blob/main/assets/gift/wave.gif" width="2px"> -->
 <p>  
   <a href="https://github.com/hd4y2t" >
 <img src="https://github-readme-stats.vercel.app/api?username=hd4y2t&show_icons=true&bg_color=0d1117&icon_color=4b8dda&title_color=199afc&text_color=8a939d">
