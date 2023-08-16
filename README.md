@@ -7,7 +7,7 @@
  <a href="https://github.com/hd4y2t" >
 <!-- <img src="https://github.com/hd4y2t/hd4y2t/blob/main/assets/gift/cat2.gif" href="https://github.com/hd4y2t"  width="90" height="110"> -->
 
-<img src="https://github.com/hd4y2t/hd4y2t/blob/main/assets/gift/readmebox.svg" href="https://github.com/hd4y2t"  width="90" height="110">
+<img src="https://github.com/hd4y2t/hd4y2t/blob/main/assets/gift/readmebox.svg" href="https://github.com/hd4y2t">
  
 <!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hd4y2t&layout=compact)](https://github.com/hd4y2t) -->
  <!-- ![](https://komarev.com/ghpvc/?username=52199422&color=1897f8&label=PROFILE+VIEWS) -->
